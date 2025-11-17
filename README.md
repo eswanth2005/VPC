@@ -32,7 +32,7 @@
 ## OUTPUT:
 <img width="750" height="313" alt="444987956-b5eac439-0f51-4292-ba53-c00b20103b1c" src="https://github.com/user-attachments/assets/0fd1883d-4607-4afc-966b-d6440045751f" />
 
-![image](https://github.com/user-attachments/assets/236b1c58-201d-4a60-b332-a99a36c9ed86)
+<img width="755" height="308" alt="444987969-236b1c58-201d-4a60-b332-a99a36c9ed86" src="https://github.com/user-attachments/assets/5a079fca-fb4b-4604-986b-5c9fa8c96705" />
 
 ## RESULT: 
 A private cloud environment was successfully created using the AWS/Azure platform. Key components such as VPC/VNet, subnets, instances, and security groups were configured. The environment was tested and verified for internal communication and external access as per the configuration.
